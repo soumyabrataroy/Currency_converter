@@ -15,4 +15,4 @@ You just need to provide the desired currency like INR or CAD and date to fetch 
 
 # example
 Please see this short video:
-https://youtu.be/6z5414r1YYo
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6z5414r1YYo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
